@@ -1,9 +1,9 @@
 <template>
   <ul>
-    <li>Pokèmon 1</li>
-    <li>Pokèmon 2</li>
-    <li>Pokèmon 3</li>
-    <li>Pokèmon 4</li>
+    <li>Pokemon 1</li>
+    <li>Pokemon 2</li>
+    <li>Pokemon 3</li>
+    <li>Pokemon 4</li>
   </ul>
 </template>
 
